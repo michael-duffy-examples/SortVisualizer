@@ -13,7 +13,7 @@ This is a Visual Studio 2017 project. It is a Windows Forms project in C#.
 Load the Solution in Visual Studio 2017 or later.  
 
 ## Usage
-Add your own sorting algorithms or modify existing ones by adding or modufying classes
+Add your own sorting algorithms or modify existing ones by adding or modifying classes
 that implement the included sort engine interface.
 
 ## History
